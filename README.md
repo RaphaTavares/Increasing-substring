@@ -49,7 +49,10 @@ ABACDA
 ### Sample Output
 
 Case #1: 1 2 1 2
+
 Case #2: 1 2 1 2 3 1
+
+
 In Sample Case #1, the longest strictly increasing substring ending at position 1 is A. The longest strictly increasing substrings ending at positions 2, 3 and 4 are AB, B and BC, respectively.
 
 In Sample Case #2, the longest strictly increasing substrings for each position are A, AB, A, AC, ACD and A.
